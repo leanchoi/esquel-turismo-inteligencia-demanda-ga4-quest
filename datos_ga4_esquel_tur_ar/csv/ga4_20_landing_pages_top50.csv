@@ -1,0 +1,52 @@
+is_total,rank,landing_page,product_cluster,sessions,sessions_pct,active_users,active_users_pct,new_users,new_users_pct,avg_eng_time_sec,avg_eng_time_raw,key_events,key_events_pct,session_key_event_rate_pct
+True,,Total,TOTAL,1352203.0,100.0,979914.0,100.0,986301.0,100.0,33.0,33s,232383.0,100.0,7.9
+False,1.0,/,Home,657333.0,48.61,510710.0,52.12,503344.0,51.03,28.0,28s,98718.0,42.48,5.89
+False,2.0,/blog/la-patagonia-te-espera-vuelo-directo-entre-cordoba-y-esquel,Campaña Vuelo Córdoba,160529.0,11.87,93233.0,9.51,98050.0,9.94,4.0,4s,33273.0,14.32,13.05
+False,3.0,/disfruta/excursiones-aventura/parque-nacional-los-alerces,PNLA & Glaciares/Lagos,52208.0,3.86,43771.0,4.47,38615.0,3.92,100.0,1m 40s,8899.0,3.83,6.03
+False,4.0,/blog/eclipse-esquel-2027-vivi-el-anillo-de-fuego-en-la-patagonia,Eclipse Anular 2027,49359.0,3.65,44372.0,4.53,44483.0,4.51,5.0,5s,12391.0,5.33,16.73
+False,5.0,/disfruta/excursiones-aventura/expreso-patagonico,La Trochita (Expreso Patagónico),38104.0,2.82,34757.0,3.55,32508.0,3.3,31.0,31s,4585.0,1.97,4.46
+False,6.0,/blog/nieve-de-calidad-buenos-precios-y-excelentes-pistas-descubri-la-hoya-con-amigos,La Hoya / Nieve & Invierno,37340.0,2.76,33405.0,3.41,33675.0,3.41,0.0,0s,2295.0,0.99,3.7
+False,7.0,(not set) [landing],Otros,25377.0,1.88,16724.0,1.71,6.0,0.01,16.0,16s,5031.0,2.16,17.72
+False,8.0,/planifica/alojamiento,Alojamiento,22699.0,1.68,17210.0,1.76,14382.0,1.46,83.0,1m 23s,7505.0,3.23,8.56
+False,9.0,/disfruta/excursiones-aventura,"Excursiones, Aventura & Naturaleza",21088.0,1.56,17563.0,1.79,14675.0,1.49,61.0,1m 01s,4901.0,2.11,5.82
+False,10.0,/blog/eclipse-solar-anular-2027-esquel-presento-sus-atractivos-y-se-posiciono-como-el-mejor-lugar-del-mundo-para-observarlo,Eclipse Anular 2027,20083.0,1.49,18404.0,1.88,18366.0,1.86,6.0,6s,1545.0,0.66,3.93
+False,11.0,/conoce/historia-costumbres,"Información Destino, Clima & Cultura",17152.0,1.27,15547.0,1.59,15346.0,1.56,57.0,57s,446.0,0.19,1.77
+False,12.0,/disfruta/excursiones-aventura/esqui-snowboard,La Hoya / Nieve & Invierno,16971.0,1.26,15229.0,1.55,14194.0,1.44,38.0,38s,1379.0,0.59,3.85
+False,13.0,/planifica/agencias-turismo,"Planificación, Transporte & Servicios",14039.0,1.04,9817.0,1.0,7403.0,0.75,36.0,36s,2304.0,0.99,5.63
+False,14.0,/blog/escapate-a-esquel-cambia-de-paisaje-vivi-la-cordillera,Blog & Campañas Estacionales,12943.0,0.96,10446.0,1.07,10446.0,1.06,12.0,12s,7020.0,3.02,37.44
+False,15.0,/disfruta/excursiones-aventura/trevelin,"Trevelin, Ruta del Vino & Comarca",11118.0,0.82,9173.0,0.94,8067.0,0.82,67.0,1m 07s,1026.0,0.44,3.7
+False,16.0,/disfruta/excursiones-aventura/alerzal-milenario,PNLA & Glaciares/Lagos,10024.0,0.74,8143.0,0.83,6416.0,0.65,89.0,1m 29s,2412.0,1.04,8.32
+False,17.0,/blog/la-hoya-en-familia-el-mejor-lugar-para-disfrutar-las-vacaciones-de-invierno,La Hoya / Nieve & Invierno,8192.0,0.61,6668.0,0.68,6288.0,0.64,3.0,3s,1147.0,0.49,7.91
+False,18.0,(not set) [landing row 18],Otros,7808.0,0.58,6388.0,0.65,6185.0,0.63,145.0,2m 25s,1.0,0.01,0.01
+False,19.0,/disfruta/excursiones-aventura/futaleufu-chile,PNLA & Glaciares/Lagos,7791.0,0.58,6924.0,0.71,5972.0,0.61,69.0,1m 09s,1157.0,0.5,6.42
+False,20.0,/planifica/gastronomia,"Planificación, Transporte & Servicios",7272.0,0.54,5046.0,0.51,3825.0,0.39,35.0,35s,994.0,0.43,5.07
+False,21.0,/disfruta/excursiones-aventura/tuneles-de-hielo-4x4,"Excursiones, Aventura & Naturaleza",6937.0,0.51,5727.0,0.58,4345.0,0.44,74.0,1m 14s,583.0,0.25,2.78
+False,22.0,/extras/folleteria,"Planificación, Transporte & Servicios",6490.0,0.48,3989.0,0.41,2755.0,0.28,32.0,32s,1657.0,0.71,8.8
+False,23.0,/disfruta/excursiones-aventura/rnulazeta,"Excursiones, Aventura & Naturaleza",6468.0,0.48,5120.0,0.52,3536.0,0.36,90.0,1m 30s,1614.0,0.69,9.55
+False,24.0,/planifica/otros-servicios/alquiler-de-autos,"Planificación, Transporte & Servicios",5918.0,0.44,4535.0,0.46,3819.0,0.39,39.0,39s,655.0,0.28,5.69
+False,25.0,/conoce/clima,"Información Destino, Clima & Cultura",5547.0,0.41,4691.0,0.48,3912.0,0.4,49.0,49s,1273.0,0.55,11.99
+False,26.0,/blog/verano-en-esquel-vacaciones-para-disfrutar-en-familia,Blog & Campañas Estacionales,5324.0,0.39,4030.0,0.41,3953.0,0.4,5.0,5s,868.0,0.37,8.94
+False,27.0,/disfruta/excursiones-aventura/paseo-por-la-hoya,La Hoya / Nieve & Invierno,4976.0,0.37,4148.0,0.42,3440.0,0.35,47.0,47s,601.0,0.26,3.92
+False,28.0,/blog/la-nieve-ya-llego-a-la-hoya-y-crece-la-expectativa-por-la-temporada-de-invierno-2026,La Hoya / Nieve & Invierno,4793.0,0.35,3897.0,0.4,3651.0,0.37,11.0,11s,1968.0,0.85,28.27
+False,29.0,/planifica/otros-servicios/taxis-y-remises,"Planificación, Transporte & Servicios",4764.0,0.35,3524.0,0.36,2902.0,0.29,29.0,29s,1270.0,0.55,11.84
+False,30.0,/disfruta/excursiones-aventura/piedra-parada,"Excursiones, Aventura & Naturaleza",4241.0,0.31,3617.0,0.37,2891.0,0.29,75.0,1m 15s,854.0,0.37,8.04
+False,31.0,/disfruta/excursiones-aventura/complejo-hidroelectrico-futaleufu,PNLA & Glaciares/Lagos,3940.0,0.29,3203.0,0.33,2567.0,0.26,74.0,1m 14s,851.0,0.37,9.75
+False,32.0,/disfruta/excursiones-aventura/trekking-al-glaciar-torrecillas,PNLA & Glaciares/Lagos,3844.0,0.28,3222.0,0.33,2160.0,0.22,89.0,1m 29s,893.0,0.38,8.3
+False,33.0,/disfruta/excursiones-aventura/recorre-esquel-en-zapatillas,"Excursiones, Aventura & Naturaleza",3436.0,0.25,2427.0,0.25,1290.0,0.13,75.0,1m 15s,677.0,0.29,9.2
+False,34.0,/blog/esquel-anuncio-un-3x2-en-alojamientos-para-carnaval-y-los-proximos-fines-de-semana-largos,Alojamiento,3214.0,0.24,3175.0,0.32,3161.0,0.32,2.0,2s,0.0,0.0,0.0
+False,35.0,/conoce/areas-protegidas/parque-nacional-los-alerces,PNLA & Glaciares/Lagos,3185.0,0.24,2492.0,0.25,2151.0,0.22,69.0,1m 09s,333.0,0.14,5.62
+False,36.0,/disfruta/excursiones-aventura/senderos-periurbanos,"Excursiones, Aventura & Naturaleza",2963.0,0.22,2390.0,0.24,1676.0,0.17,106.0,1m 46s,791.0,0.34,8.77
+False,37.0,/planifica,"Planificación, Transporte & Servicios",2938.0,0.22,2042.0,0.21,815.0,0.08,92.0,1m 32s,778.0,0.33,6.36
+False,38.0,/planifica/como-llegar/avion,"Planificación, Transporte & Servicios",2861.0,0.21,2704.0,0.28,2371.0,0.24,40.0,40s,966.0,0.42,15.62
+False,39.0,/blog/el-24-de-mayo-en-visperas-del-dia-de-la-revolucion-de-mayo-la-ciudad-sera-escenario-de-un-record-gastronomico-historico,Blog & Campañas Estacionales,2756.0,0.2,2525.0,0.26,2515.0,0.25,6.0,6s,422.0,0.18,5.73
+False,40.0,/planifica/alojamiento/cabanas-hasta-3,Alojamiento,2695.0,0.2,2085.0,0.21,1542.0,0.16,65.0,1m 05s,528.0,0.23,6.86
+False,41.0,/conoce,"Información Destino, Clima & Cultura",2514.0,0.19,1808.0,0.18,888.0,0.09,84.0,1m 24s,710.0,0.31,5.97
+False,42.0,/disfruta/excursiones-aventura/ruta-del-vino,"Trevelin, Ruta del Vino & Comarca",2365.0,0.17,1949.0,0.2,1605.0,0.16,61.0,1m 01s,293.0,0.13,4.99
+False,43.0,/blog/temporada-de-nieve-en-esquel,La Hoya / Nieve & Invierno,2358.0,0.17,2101.0,0.21,1913.0,0.19,60.0,1m 00s,114.0,0.05,2.71
+False,44.0,/disfruta/excursiones-aventura/lago-krugger,PNLA & Glaciares/Lagos,2179.0,0.16,1852.0,0.19,1514.0,0.15,71.0,1m 11s,305.0,0.13,6.1
+False,45.0,/planifica/otros-servicios,"Planificación, Transporte & Servicios",2154.0,0.16,1740.0,0.18,1134.0,0.11,64.0,1m 04s,370.0,0.16,5.52
+False,46.0,/conoce/fiestas-locales,"Información Destino, Clima & Cultura",2072.0,0.15,1855.0,0.19,1550.0,0.16,38.0,38s,119.0,0.05,2.32
+False,47.0,/disfruta/excursiones-aventura/comarca-paralelo-42,"Trevelin, Ruta del Vino & Comarca",2066.0,0.15,1719.0,0.18,1299.0,0.13,95.0,1m 35s,381.0,0.16,7.02
+False,48.0,/disfruta/excursiones-aventura/cultura-galesa,"Trevelin, Ruta del Vino & Comarca",1851.0,0.14,1436.0,0.15,1113.0,0.11,66.0,1m 06s,197.0,0.08,4.92
+False,49.0,/conoce/areas-protegidas/reserva-natural-urbana-laguna-la-zeta,"Excursiones, Aventura & Naturaleza",1642.0,0.12,1331.0,0.14,1021.0,0.1,69.0,1m 09s,339.0,0.15,9.44
+False,50.0,/disfruta/excursiones-aventura/city-tour-esquel,"Excursiones, Aventura & Naturaleza",1517.0,0.11,1077.0,0.11,625.0,0.06,101.0,1m 41s,382.0,0.16,8.57

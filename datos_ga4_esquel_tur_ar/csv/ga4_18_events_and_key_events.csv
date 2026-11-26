@@ -1,0 +1,12 @@
+is_total,rank,event_name,event_count,event_count_pct,total_users,total_users_pct,events_per_active_user,total_revenue_usd,configured_as_key_event,audit_note
+True,,Total,5914547.0,100.0,980731.0,100.0,6.04,0.0,False,STANDARD_EVENT
+False,1.0,page_view,2284111.0,38.62,980304.0,99.96,2.33,0.0,False,STANDARD_EVENT
+False,2.0,session_start,1371169.0,23.18,979902.0,99.92,1.4,0.0,False,STANDARD_EVENT
+False,3.0,user_engagement,1065519.0,18.02,304210.0,31.02,3.52,0.0,True,CRITICAL_MISCONFIGURATION_INFLATES_KEY_EVENTS_FROM_MAR_2026
+False,4.0,first_visit,986301.0,16.68,978623.0,99.79,1.01,0.0,False,STANDARD_EVENT
+False,5.0,scroll,164629.0,2.78,73166.0,7.46,2.29,0.0,False,STANDARD_EVENT
+False,6.0,click,25589.0,0.43,12859.0,1.31,1.99,0.0,False,STANDARD_EVENT
+False,7.0,generate_lead,14321.0,0.24,6164.0,0.63,2.34,0.0,True,TRUE_CONVERSION_SIGNAL
+False,8.0,file_download,2737.0,0.05,1036.0,0.11,2.64,0.0,True,TRUE_CONVERSION_SIGNAL
+False,9.0,form_submit,93.0,0.01,55.0,0.01,1.69,0.0,False,TRUE_CONVERSION_SIGNAL
+False,10.0,form_start,78.0,0.01,75.0,0.01,1.04,0.0,False,STANDARD_EVENT
